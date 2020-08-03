@@ -10,5 +10,5 @@ python type27.py [query keywords] --insta_id=[instagram id] --insta_pw=[instagra
 
 NO AFTERSERVICE DON'T ASK
 
-. -- type27.py
-  \- (cache) : will be generated
+. -- type27.py  
+    \\- (cache) : will be generated
