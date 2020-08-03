@@ -15,7 +15,6 @@ import selenium
 from selenium import webdriver
 
 def login(id,pw,driver):
-    #origin by Eimsel#7093 @ discord
 
     driver.get("https://www.instagram.com/")
     time.sleep(1)
